@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=yes\ no
+comment0.target=Crate(int,\ int)
+comment1.params=
+comment1.target=int\ buffUsed()
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getImage()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=boolean\ okay()
+comment6.params=
+comment6.target=java.awt.Rectangle\ getBounds()
+numComments=7

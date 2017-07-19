@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=playerx\ playery
+comment0.target=Ally(int,\ int)
+comment1.params=
+comment1.target=void\ addX()
+comment2.params=
+comment2.target=void\ subX()
+comment3.params=
+comment3.target=void\ addY()
+comment4.params=
+comment4.target=void\ subY()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=java.awt.image.BufferedImage\ getAllyImage()
+numComments=8
