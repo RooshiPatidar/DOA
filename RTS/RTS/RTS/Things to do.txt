@@ -1,0 +1,5 @@
+﻿Find a newer relevant calmer background
+More shadow on logo
+Better buttons
+Move Gamestate Play mouse stuff to its own method
+Change .offset to actual positions so it will work if you click before end of animation

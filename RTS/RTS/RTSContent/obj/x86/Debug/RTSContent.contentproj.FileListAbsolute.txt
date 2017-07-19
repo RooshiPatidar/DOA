@@ -1,0 +1,4 @@
+\\fisd-fs4\hs\fhs\124628\documents\visual studio 2010\Projects\RTS\RTS\RTSContent\obj\x86\Debug\RTSContent.contentprojResolveAssemblyReference.cache
+H:\RTS\RTS\RTSContent\obj\x86\Debug\RTSContent.contentprojResolveAssemblyReference.cache
+C:\Users\124628\Desktop\RTS\RTS\RTSContent\obj\x86\Debug\RTSContent.contentprojResolveAssemblyReference.cache
+C:\Users\Rooshi\Desktop\RTS\RTS\RTSContent\obj\x86\Debug\RTSContent.contentprojResolveAssemblyReference.cache

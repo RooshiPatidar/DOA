@@ -1,0 +1,76 @@
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\map.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\actor.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\red.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\blue.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\TestKnight.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\RTS Map.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\logo.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\background.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\Options Button.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\Start Game.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\Exit Button.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\black.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\GameplayPressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\GameplayUnpressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\SoundPressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\SoundUnpressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\VideoPressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\VideoUnpressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\BackPressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\BackUnpressed.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\TownHall.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\loading1.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\loading2.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Start Screen\loading3.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\grasstest.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\brick.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDhpmanabox.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDmaincharframe.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDsecondarycharframe.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDmapbrick.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDmaincharbrick.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDsecondarycharbrick.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUDcommandbrick.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\Barracks.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\BarracksHalf.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\Church.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\ChurchHalf.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\Farm.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\FarmHalf.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\ScoutTower.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\ScoutTowerHalf.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Buildings\TownHallHalf.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\HUD\HUD.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Icons\BackToWorkIcon.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Icons\CallToArmsIcon.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Icons\peasantIcon.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Actors\peasant.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\font.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\RTS.exe.manifest
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\RTS.application
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\RTS.exe
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\RTS.pdb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\obj\x86\Debug\RTS.csprojResolveAssemblyReference.cache
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\obj\x86\Debug\RTS.exe.manifest
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\obj\x86\Debug\RTS.application
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\obj\x86\Debug\RTS.exe
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\obj\x86\Debug\RTS.pdb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd1.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd2.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd3.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd4.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd5.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd6.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pspissd7.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Psready.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pswhat1.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pswhat2.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pswhat3.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pswhat4.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Pswrkdon.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Psyessr1.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Psyessr2.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Psyessr3.xnb
+C:\Users\Rooshi\Desktop\RTS\RTS\RTS\bin\x86\Debug\Content\Sounds\Peasant\Psyessr4.xnb
